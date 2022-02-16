@@ -1,5 +1,6 @@
 -- By: Muhammad Haffizzan, Date: 12/02/2022, Data latest date: 10/02/2022
 -- Making sure data import is success
+-- Link to the dataset: https://ourworldindata.org/covid-deaths
 
 SELECT *
 FROM PortfolioProject..covid_death
